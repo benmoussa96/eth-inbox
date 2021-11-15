@@ -1,2 +1,2 @@
 # eth-inbox
-Ethereum Smart Contract with solidity
+Ethereum Smart Contract example with solidity and Web3.
